@@ -4,28 +4,28 @@
   <summary>Contents</summary>
   <ol>
     <li>
-      <a href="#Information">Information</a>
+      <a href="#information">Information</a>
     </li>
     <li>
-      <a href="#Introduction">Introduction</a>
+      <a href="#introduction">Introduction</a>
     </li>
     <li>
-      <a href="#Types of Sidequests and Missions">Types of Sidequests and Missions</a>
+      <a href="#types-of-sidequests-and-missions">Types of Sidequests and Missions</a>
     </li>
     <li>
-      <a href="#How to make a Sidequest and Mission">How to make a Sidequest and Mission</a>
+      <a href="#how-to-make-a-sidequest-and-mission">How to make a Sidequest and Mission</a>
     </li>
     <li>
-      <a href="#List of Tips on how to make a Sidequest and Mission">List of Tips on how to make a Sidequest and Mission</a>
+      <a href="#list-of-tips-on-how-to-make-a-sidequest-and-mission">List of Tips on how to make a Sidequest and Mission</a>
     </li>
     <li>
-      <a href="#Industry example: Persona 5 Royal">Industry example: Persona 5 Royal</a>
+      <a href="#industry-example-persona-5">Industry example: Persona 5 Royal</a>
     </li>
     <li>
-      <a href="#Industry example: The Witcher 3 Wild Hunt">Industry example: The Witcher 3 Wild Hunt</a>
+      <a href="#industry-example-the-witcher-3-wild-hunt">Industry example: The Witcher 3 Wild Hunt</a>
     </li>
     <li>
-      <a href="#References">References</a>
+      <a href="#references">References</a>
     </li>
   </ol>
 </details>
