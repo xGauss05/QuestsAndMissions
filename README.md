@@ -48,14 +48,14 @@ Sidequests are popular in RPG games, specially those with an open-world, but not
 ## Types of Sidequests and Missions
 There are several kinds of side quests. As many as the imagination allows. I will include the most essential ones here.
 
-* Fetch Quests: require the player to collect a requested item
-* Kill Quests: the player must kill a certain individual, typically being the target a monster
-* Escort Quests: the player must take the requesting NPC (or another person) from point A to point B.
+* **Fetch Quests**: require the player to collect a requested item
+* **Kill Quests**: the player must kill a certain individual, typically being the target a monster
+* **Escort Quests**: the player must take the requesting NPC (or another person) from point A to point B.
 Typically, this form of mission involves the NPC joining temporarily as a guest party member in RPG games.
-* Delivery Quests: the player must deliver an item given by the requesting NPC to another NPC.
-* Push The Button Quests: activate a lever, magic stone, button. Usually this type of quests are a transition to bigger side quests.
-* Mystery Quests: a mystery script, a riddle, all found by the player where he will need to decypher them in order to finish this quest.
-* Lore Quests: a series of quests that explain a part of the story or world where the player character is involved
+* **Delivery Quests**: the player must deliver an item given by the requesting NPC to another NPC.
+* **Push The Button Quests**: activate a lever, magic stone, button. Usually this type of quests are a transition to bigger side quests.
+* **Mystery Quests**: a mystery script, a riddle, all found by the player where he will need to decypher them in order to finish this quest.
+* **Lore Quests**: a series of quests that explain a part of the story or world where the player character is involved
 
 Try to make different combinations with the aftermentioned types of sidequests and missions. The more variety you combine, the greater the effect of volume will have on your game. For example, you can combine delivery, fetch and kill quests. 
 
@@ -107,13 +107,11 @@ Create a variety of difficulty in these challenges so that different people can 
 * **Balance the difficulty**:
 Ensure that the side quest is balanced in terms of difficulty. It should be challenging enough to be engaging but not so difficult that players become frustrated and give up.
 * **Offer rewards**:
-Players should feel rewarded for completing a side quest. Rewards can include unique items, equipment, experience points, or other bonuses that enhance the player's character or improve their gameplay experience. Even a simple
-skin for the player's weapon is good enough as a reward.
+Players should feel rewarded for completing a side quest. Rewards can include unique items, equipment, experience points, or other bonuses that enhance the player's character or improve their gameplay experience. Even a simple skin for the player's weapon is good enough as a reward.
 * **Make it optional**:
 Side quests are meant to be optional, meaning that the player can either do them or not. This provides freedom to explore the game world at their own pace and pursue different goals.
 * **Make it immersive**:
-Create an engaging and immersive storyline that can complement the main story or not. This will keep the player invested in the experience. Use dialogue, cutscenes, and other storytelling techniques that can help you create
-a good narrative that attracts players into the game world.
+Create an engaging and immersive storyline that can complement the main story or not. This will keep the player invested in the experience. Use dialogue, cutscenes, and other storytelling techniques that can help you create a good narrative that attracts players into the game world.
 * **Use them to flesh out characters**:
 Create a good narrative quest involving one of the protagonists that reveals more about their background, personality and motivations, giving players a deeper understanding of the characters that the player is controlling.
 * **Make them discoverable**:
@@ -159,7 +157,9 @@ In the game world, the protagonist has a mysterious power that allows him to cha
 * Fits thematically: the sidequest involves using social skills to solve a problem and help others (a major theme for Persona 5) 
 
 ## Industry example: The Witcher 3: Wild Hunt
+
 [<img src="https://i3.ytimg.com/vi/f2gVLzWpw_k/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=f2gVLzWpw_k)
+
 ## References:
 **Youtube videos**
 * https://www.youtube.com/watch?v=361xodDNHyM
