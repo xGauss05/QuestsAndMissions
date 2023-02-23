@@ -1,5 +1,3 @@
-# Quests & Missions
-
 <img src="docs/images/banner.png" width="1000" height="400" align="center">
 
 <details>
@@ -34,7 +32,7 @@
 
 ## Information
 
-Slides presentation: [Presentation](https://docs.google.com/presentation/d/1l7TOFF-wqRzUMy0KAvgfUPgEDbenH4rZnrfa1uO2y5w/edit?usp=sharing)
+Slides presentation: [Presentation](https://docs.google.com/presentation/d/1DS_jOV3rhpEQI--hMgc4SqFk864yMV44DNsYdSd-JRM/edit?usp=sharing)
 
 Project Link: [https://github.com/xGauss05/QuestsAndMissions](https://github.com/xGauss05/QuestsAndMissions)
 
@@ -167,10 +165,12 @@ In the game world, the protagonist has a mysterious power that allows him to cha
 * https://www.gamedeveloper.com/design/designing-side-quests-study-these-7-games-and-some-chris-avellone-pointers-
 * https://www.masterthedungeon.com/guide-to-dnd-side-quests
 * https://pressover.news/articulos/la-importancia-de-las-misiones-secundarias/
+* https://halflinghobbies.com/5-steps-to-creating-epic-side-quests/
+* https://www.gameinformer.com/b/features/archive/2017/02/09/side-quest-syndrome-designing-the-road-less-travelled.aspx
 
 **Reddit posts**
 * https://www.reddit.com/r/truegaming/comments/12yjdd/time_limitations_on_missions/
 * https://www.reddit.com/r/Games/comments/dxvi3h/what_kind_of_side_quests_in_are_the_best_in_rpgs/
 
 **Slides presentation**
-* https://docs.google.com/presentation/d/1l7TOFF-wqRzUMy0KAvgfUPgEDbenH4rZnrfa1uO2y5w/edit?usp=sharing
+* https://docs.google.com/presentation/d/1DS_jOV3rhpEQI--hMgc4SqFk864yMV44DNsYdSd-JRM/edit?usp=sharing
