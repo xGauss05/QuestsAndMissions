@@ -41,7 +41,7 @@ Linkedin: [Jonathan Cacay Llanes](https://www.linkedin.com/in/jonathan-cacay-lla
 ## Introduction
 I am Jonathan Cacay Llanes and by the time I created this github page, I was a 2nd year student in Universitat Politécnica de Catalunya, studying Videogame Design & Development. On this website you will find useful information on how to create your own missions for you RPG game.
 
-If you are a fan of videogames, you should already know what side quests are. Otherwise, if you do not, side quests are those tasks that we must fulfill for a specific purpose, but not being part, at least directly, of our main objective. This can add more volume to a game, but when this are done well, it can also add intrigue and alongside the main plot.
+If you are a fan of videogames, you should already know what side quests are. Otherwise, if you do not, sidequests are those tasks that we must fulfill for a specific purpose, but not being part, at least directly, of our main objective. This can increase the volume of a game, but when done effectively, it can also add interest to the main plot.
 
 Sidequests are popular in RPG games, specially those with an open-world, but not only that genre has them.
 
@@ -70,6 +70,13 @@ After beating the Pokémon and reclaiming the stolen item, the player can return
 
 <img src="docs/images/pmd_example.png" width="600" height="400" align="center">
 
+#### Types of quest involved
+>Fetch: Retrieve Swagger.
+>
+>Kill: Defeat Magikarp.
+>
+>Deliver: Deliver Swagger to Feebas.
+
 ## How to make a Sidequest and Mission
 
 We need to make sure that we have these 3 steps on our hand:
@@ -85,9 +92,8 @@ In story driven sidequests, try to make these quests be an add-on for the main s
 
 [<img src="https://i3.ytimg.com/vi/yTJ_RjfhGVQ/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=yTJ_RjfhGVQ)
 
-
 ## List of Tips on how to make a Sidequest and Mission
-Side quests are short duration missions that enhance the immersity of the video game. These quests should be interesting and fun. Here are some of the steps that one should follow in order to design a side quest.
+Side quests are short duration missions that enhance the immersion of the video game. These quests should be interesting and fun. Here are some of the steps that one should follow in order to design a side quest.
 
 * **Make it meaningful**:
 A side quest should have a purpose that is relevant to the game world or the main storyline. It should not feel like a random task that has no impact on the game. This can include providing additional lore, introducing new characters, or revealing about the game's world.
@@ -125,7 +131,7 @@ Give players the freedom to complete the side quest in different ways. Offer mul
 Ensure that the side quest fits thematically with the rest of the game. It should not feel out of place or disconnected from the game world.
 * **Create a sense of continuity**: 
 Make the side quest feel like it is part of a larger story or narrative. Tie it into the main story or other side quests to create a sense of continuity in the game world.
-* **Use side quests to showcase game mechanics**: 
+* **Showcase game mechanics**: 
 Side quests can be a great way to showcase different game mechanics. Create quests that require players to use different skills or abilities, helping them to learn and master different gameplay mechanics.
 * **Create memorable characters**: 
 Create memorable characters for players to interact with during side quests. Use unique personalities, dialogue, and actions to create characters that players will remember long after the side quest is over.
@@ -133,12 +139,12 @@ Create memorable characters for players to interact with during side quests. Use
 Consider making side quests repeatable, allowing players to complete them multiple times for additional rewards or to improve their score.
 * **Use humor**: 
 Create a lighthearted and fun experience for players. This can include witty dialogue, humorous situations, or quirky characters.
-* **Use side quests to reward exploration**: 
+* **Reward exploration**: 
 Create side quests that reward exploration of the game world. This can include hidden areas, secret items, or unique encounters that are only accessible through exploration.
 
 There are an unlimited number of tips to choose from in order to create a good experience on a sidequest. You should have no trouble making them as long as they make sense in the universe you are building and are balanced.
 
-## Industry example: Persona 5 Royal
+## Industry example: Persona 5
 
 In Persona 5, the "Money-Grubbing Uncle" side quest involves a character named Futaba and his adoptive father Sojiro. In this quest, the player decided to hang out with Sojiro and Futaba. Until a character appears in the scene.
 He is Futaba's uncle, and from the looks of it, he is not happy at all of Sojiro being the adoptive father. And turns out that not only wants Futaba's custody, but also a money compensation by suing the main character.
@@ -153,12 +159,13 @@ In the game world, the protagonist has a mysterious power that allows him to cha
 * Fits thematically: the sidequest involves using social skills to solve a problem and help others (a major theme for Persona 5) 
 
 ## Industry example: The Witcher 3: Wild Hunt
-
+[<img src="https://i3.ytimg.com/vi/f2gVLzWpw_k/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=f2gVLzWpw_k)
 ## References:
 **Youtube videos**
 * https://www.youtube.com/watch?v=361xodDNHyM
 * https://www.youtube.com/watch?v=yTJ_RjfhGVQ
 * https://www.youtube.com/watch?v=HcCn4w5WkLM
+* https://www.youtube.com/watch?v=f2gVLzWpw_k
 
 **Internet articles**
 * https://www.masterclass.com/articles/how-to-write-side-quests-for-video-games
