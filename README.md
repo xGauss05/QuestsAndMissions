@@ -162,22 +162,22 @@ In the game world, the protagonist has a mysterious power that allows him to cha
 
 ## References:
 **Youtube videos**
-* https://www.youtube.com/watch?v=361xodDNHyM
-* https://www.youtube.com/watch?v=yTJ_RjfhGVQ
-* https://www.youtube.com/watch?v=HcCn4w5WkLM
-* https://www.youtube.com/watch?v=f2gVLzWpw_k
+* [https://www.youtube.com/watch?v=361xodDNHyM](https://www.youtube.com/watch?v=361xodDNHyM)
+* [https://www.youtube.com/watch?v=yTJ_RjfhGVQ](https://www.youtube.com/watch?v=yTJ_RjfhGVQ)
+* [https://www.youtube.com/watch?v=HcCn4w5WkLM](https://www.youtube.com/watch?v=HcCn4w5WkLM)
+* [https://www.youtube.com/watch?v=f2gVLzWpw_k](https://www.youtube.com/watch?v=f2gVLzWpw_k)
 
 **Internet articles**
-* https://www.masterclass.com/articles/how-to-write-side-quests-for-video-games
-* https://www.gamedeveloper.com/design/designing-side-quests-study-these-7-games-and-some-chris-avellone-pointers-
-* https://www.masterthedungeon.com/guide-to-dnd-side-quests
-* https://pressover.news/articulos/la-importancia-de-las-misiones-secundarias/
-* https://halflinghobbies.com/5-steps-to-creating-epic-side-quests/
-* https://www.gameinformer.com/b/features/archive/2017/02/09/side-quest-syndrome-designing-the-road-less-travelled.aspx
+* [https://www.masterclass.com/articles/how-to-write-side-quests-for-video-games](https://www.masterclass.com/articles/how-to-write-side-quests-for-video-games)
+* [https://www.gamedeveloper.com/design/designing-side-quests-study-these-7-games-and-some-chris-avellone-pointers-](https://www.gamedeveloper.com/design/designing-side-quests-study-these-7-games-and-some-chris-avellone-pointers-)
+* [https://pressover.news/articulos/la-importancia-de-las-misiones-secundarias/](https://www.masterthedungeon.com/guide-to-dnd-side-quests)
+* [https://pressover.news/articulos/la-importancia-de-las-misiones-secundarias/](https://pressover.news/articulos/la-importancia-de-las-misiones-secundarias/)
+* [https://halflinghobbies.com/5-steps-to-creating-epic-side-quests/](https://halflinghobbies.com/5-steps-to-creating-epic-side-quests/)
+* [https://www.gameinformer.com/b/features/archive/2017/02/09/side-quest-syndrome-designing-the-road-less-travelled.aspx](https://www.gameinformer.com/b/features/archive/2017/02/09/side-quest-syndrome-designing-the-road-less-travelled.aspx)
 
 **Reddit posts**
-* https://www.reddit.com/r/truegaming/comments/12yjdd/time_limitations_on_missions/
-* https://www.reddit.com/r/Games/comments/dxvi3h/what_kind_of_side_quests_in_are_the_best_in_rpgs/
+* [https://www.reddit.com/r/truegaming/comments/12yjdd/time_limitations_on_missions/](https://www.reddit.com/r/truegaming/comments/12yjdd/time_limitations_on_missions/)
+* [https://www.reddit.com/r/Games/comments/dxvi3h/what_kind_of_side_quests_in_are_the_best_in_rpgs/](https://www.reddit.com/r/Games/comments/dxvi3h/what_kind_of_side_quests_in_are_the_best_in_rpgs/)
 
 **Slides presentation**
-* https://docs.google.com/presentation/d/1DS_jOV3rhpEQI--hMgc4SqFk864yMV44DNsYdSd-JRM/edit?usp=sharing
+* [https://docs.google.com/presentation/d/1DS_jOV3rhpEQI--hMgc4SqFk864yMV44DNsYdSd-JRM/edit?usp=sharing](https://docs.google.com/presentation/d/1DS_jOV3rhpEQI--hMgc4SqFk864yMV44DNsYdSd-JRM/edit?usp=sharing)
